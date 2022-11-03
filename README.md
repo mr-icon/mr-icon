@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**mr-icon/mr-icon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![mr-icon GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-icon&show_icons=true&count_private=true&theme=merko)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*My name is Emmanuel, but people call me the ✨ **mr-icon* ✨ 
+
+Here are some few information about me:
+
+- 🔭 I’m currently working on web development📱
+- 🌱 I’m currently getting  my degreee in CS 🧑‍💻...
+- 👯 I’m looking to collaborate on any open source project
+- 🤔 I’m looking for help with learning how to network🤝
+- 💬 Ask me about reactjs, javascript, flask & python🤓
+- 📫 How to reach me: emmanuelaustin116@gmail.com
+- 😄 Pronouns: he/it 👀
+- ⚡ Fun fact: hmmm 🤔, deep down i think i'm a robot🤖🦾
